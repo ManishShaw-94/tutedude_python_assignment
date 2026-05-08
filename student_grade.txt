@@ -1,0 +1,4 @@
+Student data in the file:
+ABC: 100
+XYZ: 90
+UUW: 80
